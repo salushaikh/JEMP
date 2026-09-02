@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Jobless Empire",
+  "description": "Jobless Empire is a private builder community for people between jobs and independent builders who want to collaborate, build projects, explore opportunities, and create proof-of-work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Jobless Empire",
+  "description": "Private builder community for job seekers, independent builders, and unemployed professionals turning available time into skills, projects, and proof of work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

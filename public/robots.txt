@@ -1,0 +1,5 @@
+# robots.txt for Jobless Empire
+User-agent: *
+Allow: /
+
+Sitemap: https://joblessempire.com/sitemap.xml
